@@ -25,7 +25,7 @@ You will need an account on [GitHub](https://github.com) in order to participate
 
 # 1. The Basics
 
-## 1.1. What is Github?
+## 1.1. What is GitHub?
 
 GiHub is a user friendly, cloud based version control system. With a GitHub account, you can make [repositories](#repository) to store your source code, keep track of your changes make to your code (known as [commits](#commit)), and access the entire commit history of each and every file you add to a repository. You can keep track of multiple projects, generally having them all logically separated into their own repositories, and each of them will keep track of their own file history. 
 
